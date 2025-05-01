@@ -8,7 +8,10 @@
         "GUID:ce522b6ed64c8be4c989a1d26d0e3275"
     ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "Editor"
+    ],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

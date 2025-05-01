@@ -18,7 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/4_Office.unity
     guid: cc855a45dc62bb8479a2ca85a707b08a
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 15bec784c4953724d9aabaa2272d4a8f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 68acd67df093cc54d81ffbf74ce0b7c4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4085b96d8c90154db74a9acf57f8ed6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 72ba7579d2d39054fb5f6160f9fcd6a6, type: 2}
   m_UseUCBPForAssetBundles: 0
