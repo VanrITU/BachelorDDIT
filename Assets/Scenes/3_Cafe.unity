@@ -660,6 +660,10 @@ PrefabInstance:
       propertyPath: m_CheckFor3DOcclusion
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6546457552648117644, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 615b983a8c541e346a3272e8a79b5b6f, type: 3}
     - target: {fileID: 6546457552942104297, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
       propertyPath: m_IsOn
       value: 0
@@ -755,6 +759,30 @@ PrefabInstance:
     - target: {fileID: 6546457552942104298, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546457552942104302, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546457553730080727, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546457553730080727, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dcd413d733ab4f041960ea472e1a684a, type: 3}
+    - target: {fileID: 6546457553730080727, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546457553730080727, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546457553730080727, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8180815008627773159, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
       propertyPath: m_AnchorMax.y
@@ -28299,8 +28327,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 9b0ee822e175fc14384b5da3f1d0475d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 144a5569cd157b0439ad98b9f9275963, type: 3}
+  m_Resource: {fileID: 8300000, guid: 144a5569cd157b0439ad98b9f9275963, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
