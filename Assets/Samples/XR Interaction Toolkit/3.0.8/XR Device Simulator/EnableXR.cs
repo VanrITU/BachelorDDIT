@@ -67,6 +67,6 @@ namespace Dorkbots.XR
                 XRGeneralSettings.Instance.Manager.DeinitializeLoader();
             }
         }
-endif
+    endif
     }
 }
